@@ -1,2 +1,2 @@
 # Accordion-
-![Accordion Preview](Accordion_Video.gif)
+![Accordion Preview](Accordion_Video.gif.gif)
